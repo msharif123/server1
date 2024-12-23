@@ -1,6 +1,6 @@
 # server1
-#ws mkdir server1
-#cd server1
+##ws mkdir server1
+###cd server1
 #mkdir public src
 cd server1
 npm init -y
